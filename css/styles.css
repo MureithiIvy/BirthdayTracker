@@ -9,7 +9,8 @@
 }
 
 .body{
-    background-color: beige;
+    background-image: url(/images/birthday-bg.jpg);
+    background-color: rgb(218, 76, 154);
     width: 1200px;
 }
 
