@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="css/css/bootstrap.css">
+  <link rel="stylesheet" href="css/styles.css">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Birthday-Calculator</title>
+</head>
+
+<body class="body">
+  <h1 class="h1">Birthday-Calculator</h1>
+  <p class="P1">This website gives you the <em>exact day of the week you were born</em> and your <strong>AKAN</strong>
+    name when you enter your date,month and the year that you were born.<br>AKAN is a Ghanian name which is derived from
+    Ghanian culture.Frequently in Ghana, children are given their first name as a 'day name' which corresponds<br>
+    to the day in the week they were born,below are steps to follow when entering your data;
+  <ol class="Ol">
+    <li>Enter the exact date of your birthday e.g 28</li>
+    <li>Key in your birthday month e.g 08</li>
+    <li>Enter the exact year of your birthday e.g 1998</li>
+  </ol>
+  </p>
+  <h4 class="H4">Fill in the form below;</h4>
+  <form action="">
+    <div class="form-group">
+      <label for="date">date</label>
+      <input type="number" class="form-control" id="date">
+    </div>
+    <div class="form-group">
+      <label for="pwd">month</label>
+      <input type="number" class="form-control" id="month">
+    </div>
+    <div class="form-group">
+      <label for="pwd">year</label>
+      <input type="number" class="form-control" id="year">
+
+
+    </div>
+    <div class="form-group gender">
+      <label for="pwd">gender</label>
+      <select name="gender" id="pickGender">
+        <option value="male">male</option>
+        <option value="female">female</option>
+      </select>
+    </div>
+
+    <div class="form-group button">
+      <input type="button" value="submit" onclick="submitFunction()">
+    </div>
+
+  </form>
+
+
+<script src="./Js/script.js"></script>
+</body>
+
+</html>
