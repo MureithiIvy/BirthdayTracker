@@ -67,7 +67,7 @@ function checkDate(){
                         return gender;
                     }
                     else{
-                        alert("gender should be between male and female");
+                        alert("gender should be male or female");
                     }
                 }else{
                     alert("enter a valid gender")
@@ -85,7 +85,7 @@ function checkDate(){
                     var dayPerOrder = ["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"];
                     var orderOfDay = DayOfWeek-1;
                     var nameOfDay = dayPerOrder[orderOfDay];
-                    return nameOfDay;
+                    alert nameOfDay;
                 }
 
                 function determineName(gender,dayOfWeek){
