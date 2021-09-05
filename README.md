@@ -26,4 +26,8 @@ For this  application to be  a success,the  following languages were used:
 * CSS
 ## Support and contact details
 Feel free to reach out me  via email "mureithi.ivy@gmail.com"
-Let me  know for any reviews or suggestions to better  the application  and keep keep it updated.  
+Let me  know for any reviews or suggestions to better  the application  and keep keep it updated.
+Always Available.
+### License
+MIT licence
+GitHub  copyrights (c)2021 **BirthdayTracker developed by @mureithiIvy.**  
