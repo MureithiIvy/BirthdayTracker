@@ -18,6 +18,7 @@
 }
 
 .Ol{
+    list-style: none;
     margin-left: 25%;
 }
 
