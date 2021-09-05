@@ -5,6 +5,7 @@ function submitFunction(){
     var inputGender = checkGender();
     var calculateDay = findDayOfWeek(inputDate,inputMonth,inputYear);
     var contain = determineName(inputGender,calculateDay);
+    alert("You were born on " + calculateDay)
     alert("Your AKAN name is " + contain );
 console.log(inputDate,inputMonth,inputYear +"line 9");
 
