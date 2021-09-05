@@ -18,4 +18,9 @@ The user of this application enters his/her date of birth then submits the input
 |Year is less than 1900 or >9999  |inputYear > 9999       | Invalid year
 |Date and year are within range|0 < inputDate <31 > 1900 < inputDate <9999> | returns the users Akan name
 |Month is out of range| 0 >inputMonth > 12  | Invalid Month 
-   
+
+ ## Technologies Used
+For this  application to be  a success,the  following languages were used:
+* HTML
+* JavaScript
+* CSS  
