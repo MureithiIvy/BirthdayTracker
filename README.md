@@ -23,4 +23,7 @@ The user of this application enters his/her date of birth then submits the input
 For this  application to be  a success,the  following languages were used:
 * HTML
 * JavaScript
-* CSS  
+* CSS
+## Support and contact details
+Feel free to reach out me  via email "mureithi.ivy@gmail.com"
+Let me  know for any reviews or suggestions to better  the application  and keep keep it updated.  
