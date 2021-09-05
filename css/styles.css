@@ -10,9 +10,10 @@
 
 .body{
     background-image: url(/images/birthday-bg3.jpg);
+    background-size: cover;
     background-repeat: no-repeat;
     background-color: rgb(218, 76, 154);
-    width: 1200px;
+    
 }
 
 .P1{
