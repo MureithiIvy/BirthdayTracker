@@ -4,6 +4,7 @@
 #### Developed by **Ivy Mureithi**, a programming student at Moringa School.
 
 ## Description
+The Akan people of Ghana normally name their children after the day of the week they were born. The website takes in the gender and the date of birth through a form. From this, it is able to determine the day of the week the person was born and provide the Akan Name. The male Akan names include: Sunday: Kwasi, Monday: Kwadwo, Tuesday: Kwabena, Wednesday: Kwaku, Thursday: Yaw, Friday: Kofi, Saturday: Kwame The female Akan names include: Sunday: Akosua, Monday: Adwoa, Tuesday: Abenaa, Wednesday: Akua, Thursday: Yaa, Friday: Afua, Saturday: Ama
 The user of this application enters his/her date of birth then submits the inputs. Depending on her gender, the application outputs his or her AKAN name. Just as easy as you have read it.
 
 ## Setup/ Installation Guide
