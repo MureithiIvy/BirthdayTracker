@@ -12,9 +12,13 @@ The user of this application enters his/her date of birth then submits the input
 Below is a brief summary of the features that the website provides:
 
  ~Input the gender (Either male or female)
+ 
  ~Input the year
+ 
  ~Input the month (must not be less than 1 and must not be more than 12)
+ 
  ~Input the day (must not be less than 1 and must not be more than 31)
+ 
  ~Output the Akan name
 
 ## Setup/ Installation Guide
