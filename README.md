@@ -20,14 +20,14 @@ The user of this application enters his/her date of birth then submits the input
 |Month is out of range| 0 >inputMonth > 12  | Invalid Month 
 
  ## Technologies Used
-For this  application to be  a success,the  following languages were used:
+For this application to be a success, the following languages were used:
 * HTML
 * JavaScript
 * CSS
 ## Support and contact details
-Feel free to reach out me  via email "mureithi.ivy@gmail.com"
-Let me  know for any reviews or suggestions to better  the application  and keep keep it updated.
+Feel free to reach me via email "ivy.mureithi@student.moringaschool.com"
+Let me know any reviews or suggestions to better the application and keep keep it updated.
 Always Available.
 ### License
 MIT licence
-GitHub  copyrights (c)2021 **BirthdayTracker developed by @mureithiIvy.**  
+GitHub copyrights (c)2021 **BirthdayTracker developed by @MureithiIvy.**  
