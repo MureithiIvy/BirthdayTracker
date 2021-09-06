@@ -11,9 +11,7 @@
 .body{
     background-image: url(/images/birthday-bg3.jpg);
     background-size: cover;
-    background-repeat: no-repeat;
-    ibackground-color: rgb(218, 76, 154);
-    
+    background-repeat: no-repeat;  
 }
 
 .P1{
