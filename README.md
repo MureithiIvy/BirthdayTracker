@@ -8,6 +8,15 @@ The Akan people of Ghana normally name their children after the day of the week 
 
 The user of this application enters his/her date of birth then submits the inputs. Depending on her gender, the application outputs his or her AKAN name. Just as easy as you have read it.
 
+## Features Summary
+Below is a brief summary of the features that the website provides:
+
+ ~Input the gender (Either male or female)
+ ~Input the year
+ ~Input the month (must not be less than 1 and must not be more than 12)
+ ~Input the day (must not be less than 1 and must not be more than 31)
+ ~Output the Akan name
+
 ## Setup/ Installation Guide
 *  To run this  application, click on the link https://MureithiIvy.github.io/BirthdayTracker
 * Once the URL address loads  the application will immediately be ready to function.No more installation required!:)
