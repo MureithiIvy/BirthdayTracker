@@ -11,20 +11,25 @@ The user of this application enters his/her date of birth then submits the input
 ## Features Summary
 Below is a brief summary of the features that the website provides:
 
- ~Input the gender (Either male or female)
+ * Input the gender (Either male or female)
  
- ~Input the year
+ * Input the year
  
- ~Input the month (must not be less than 1 and must not be more than 12)
+ * Input the month (must not be less than 1 and must not be more than 12)
  
- ~Input the day (must not be less than 1 and must not be more than 31)
+ * Input the day (must not be less than 1 and must not be more than 31)
  
- ~Output the Akan name
+ * Output the Akan name
 
 ## Setup/ Installation Guide
-*  To run this  application, click on the link https://MureithiIvy.github.io/BirthdayTracker
-* Once the URL address loads  the application will immediately be ready to function.No more installation required!:)
+* To run this  application, click on the link https://MureithiIvy.github.io/BirthdayTracker
+* Once the URL address loads  the application will immediately be ready to function. No more installation required!:)
 * Enter your values  in the  input spaces provided then  click 'SUBMIT'.
+* Further instuctions:
+* Clone the project using git clone https://github.com/MureithiIvy/BirthdayTracker. If you are not able to clone it, you can download the files as a zip folder
+* Ensure that you have the complete file
+* Navigate to the index.html file which is in the root file of the folder. The application uses HTML, CSS and JavaScript.
+* Copy the path of the index.html file to your browser and you will be able to access the application.
 
 ## BDD
 |Behaviour                  | Input       | Output              |
